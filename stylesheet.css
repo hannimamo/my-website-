@@ -1,0 +1,55 @@
+.one
+{
+  width:  50%;
+  height: 50%;
+}
+
+
+   
+.title
+{
+  font-size: 50px;
+  font-weight: bold;
+  color:red;
+}
+
+.subtitle
+{
+  font-size: 30px;
+  color: khaki;
+}
+
+.context
+{
+  font-size: 50px;
+  color: yellowgreen;
+    text-align: center;
+    font-style: arial;
+  font-weight: bold;
+}
+.quote
+{
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
+body
+{
+  background-color: cyan;
+  color: white;
+  text-align: center;
+}
+.date
+{
+  font-size: 80px;
+  color: crimson;
+  text-align: left;
+}
+
+.text
+{
+  font-size: 50px;
+  color: black;
+  text-align: left;
+  font-style: arial;
+}
