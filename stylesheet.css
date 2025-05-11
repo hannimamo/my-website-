@@ -53,3 +53,31 @@ body
   text-align: left;
   font-style: arial;
 }
+.aboutmetitle
+{
+  font-size: 50px;
+  color: black;
+  text-align: left;
+  font-style: arial;
+  text-overflow: initial;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.textabt1
+{
+  font-size: 20px;
+  color: black;
+  text-align: left;
+  font-style: arial;
+  text-size-adjust:auto; ; 
+}
+
+.textabt
+{
+  font-size: 30px;
+  color: black;
+  text-align: center;
+  font-style: bold;
+  text-size-adjust:auto; ; 
+}
